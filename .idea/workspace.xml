@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55d5f513-1f4b-4bfc-a728-569640cb1200" name="Default Changelist" comment="2nd">
+      <change afterPath="$PROJECT_DIR$/.idea/bpdc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Bradley Puskar &lt;b@rowsandcolumns.io&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1cmvcsSvzpf9mJ6PnXkLZbBMKQ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bpdc-stage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="bpdc" type="PythonConfigurationType" factoryName="Python">
+      <module name="bpdc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55d5f513-1f4b-4bfc-a728-569640cb1200" name="Default Changelist" comment="" />
+      <created>1591146665758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591146665758</updated>
+      <workItem from="1591146681057" duration="3736000" />
+      <workItem from="1591151173457" duration="349000" />
+      <workItem from="1591151525661" duration="68000" />
+      <workItem from="1591200916977" duration="3100000" />
+      <workItem from="1591361783880" duration="95000" />
+      <workItem from="1591361900973" duration="193000" />
+      <workItem from="1591370009139" duration="1814000" />
+      <workItem from="1591461445138" duration="4157000" />
+      <workItem from="1591492406793" duration="1505000" />
+    </task>
+    <task id="LOCAL-00001" summary="2nd">
+      <created>1591149371792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591149371792</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2nd">
+      <created>1591151133067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591151133067</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2nd">
+      <created>1591488790139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591488790139</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/bpdc-stage" />
+    </ignored-roots>
+    <MESSAGE value="2nd" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="788" y="152" key="#Deployment" timestamp="1591149403989">
+      <screen x="0" y="23" width="1680" height="937" />
+    </state>
+    <state x="788" y="152" key="#Deployment/0.23.1680.937@0.23.1680.937" timestamp="1591149403989" />
+    <state x="816" y="152" key="#Inspections" timestamp="1591361864071">
+      <screen x="0" y="23" width="1680" height="923" />
+    </state>
+    <state x="816" y="152" key="#Inspections/0.23.1680.923@0.23.1680.923" timestamp="1591361864071" />
+    <state x="558" y="147" width="1022" height="685" key="DiffContextDialog" timestamp="1591489168951">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state x="558" y="147" width="1022" height="685" key="DiffContextDialog/0.23.1680.920@0.23.1680.920" timestamp="1591489168951" />
+    <state width="1180" height="233" key="GridCell.Tab.0.bottom" timestamp="1591410713992">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="954" height="233" key="GridCell.Tab.0.bottom/0.23.1680.916@0.23.1680.916" timestamp="1591409056549" />
+    <state width="954" height="233" key="GridCell.Tab.0.bottom/0.23.1680.920@0.23.1680.920" timestamp="1591409498821" />
+    <state width="1180" height="233" key="GridCell.Tab.0.bottom/0.23.1680.925@0.23.1680.925" timestamp="1591410713992" />
+    <state width="941" height="233" key="GridCell.Tab.0.bottom/0.23.1680.937@0.23.1680.937" timestamp="1591148551910" />
+    <state width="1327" height="233" key="GridCell.Tab.0.bottom/0.23.1680.941@0.23.1680.941" timestamp="1591237532628" />
+    <state width="1180" height="233" key="GridCell.Tab.0.center" timestamp="1591410713991">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="954" height="233" key="GridCell.Tab.0.center/0.23.1680.916@0.23.1680.916" timestamp="1591409056548" />
+    <state width="954" height="233" key="GridCell.Tab.0.center/0.23.1680.920@0.23.1680.920" timestamp="1591409498820" />
+    <state width="1180" height="233" key="GridCell.Tab.0.center/0.23.1680.925@0.23.1680.925" timestamp="1591410713991" />
+    <state width="941" height="233" key="GridCell.Tab.0.center/0.23.1680.937@0.23.1680.937" timestamp="1591148551909" />
+    <state width="1327" height="233" key="GridCell.Tab.0.center/0.23.1680.941@0.23.1680.941" timestamp="1591237532628" />
+    <state width="1180" height="233" key="GridCell.Tab.0.left" timestamp="1591410713990">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="954" height="233" key="GridCell.Tab.0.left/0.23.1680.916@0.23.1680.916" timestamp="1591409056548" />
+    <state width="954" height="233" key="GridCell.Tab.0.left/0.23.1680.920@0.23.1680.920" timestamp="1591409498819" />
+    <state width="1180" height="233" key="GridCell.Tab.0.left/0.23.1680.925@0.23.1680.925" timestamp="1591410713990" />
+    <state width="941" height="233" key="GridCell.Tab.0.left/0.23.1680.937@0.23.1680.937" timestamp="1591148551909" />
+    <state width="1327" height="233" key="GridCell.Tab.0.left/0.23.1680.941@0.23.1680.941" timestamp="1591237532628" />
+    <state width="1180" height="233" key="GridCell.Tab.0.right" timestamp="1591410713991">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="954" height="233" key="GridCell.Tab.0.right/0.23.1680.916@0.23.1680.916" timestamp="1591409056549" />
+    <state width="954" height="233" key="GridCell.Tab.0.right/0.23.1680.920@0.23.1680.920" timestamp="1591409498820" />
+    <state width="1180" height="233" key="GridCell.Tab.0.right/0.23.1680.925@0.23.1680.925" timestamp="1591410713991" />
+    <state width="941" height="233" key="GridCell.Tab.0.right/0.23.1680.937@0.23.1680.937" timestamp="1591148551910" />
+    <state width="1327" height="233" key="GridCell.Tab.0.right/0.23.1680.941@0.23.1680.941" timestamp="1591237532628" />
+    <state x="365" y="122" key="SettingsEditor" timestamp="1591151536557">
+      <screen x="0" y="23" width="1680" height="934" />
+    </state>
+    <state x="365" y="122" key="SettingsEditor/0.23.1680.934@0.23.1680.934" timestamp="1591151536557" />
+    <state x="669" y="229" key="Vcs.Push.Dialog.v2" timestamp="1591489144741">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state x="669" y="229" key="Vcs.Push.Dialog.v2/0.23.1680.920@0.23.1680.920" timestamp="1591489144741" />
+    <state x="845" y="404" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591151053417">
+      <screen x="0" y="23" width="1680" height="937" />
+    </state>
+    <state x="845" y="404" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.937@0.23.1680.937" timestamp="1591151053417" />
+    <state x="819" y="309" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1591491237716">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state x="819" y="309" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1680.920@0.23.1680.920" timestamp="1591491237716" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bpdc$bpdc.coverage" NAME="bpdc Coverage Results" MODIFIED="1591410667604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
